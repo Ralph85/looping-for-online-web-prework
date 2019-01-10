@@ -1,7 +1,5 @@
 
-def using_for
-	checklist = 1..10
+def for counter in 1..40 do
+	checklist = 1..40
 	#your code here
 end
-
-
